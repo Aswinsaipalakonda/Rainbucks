@@ -3,7 +3,7 @@
 A modern, database-driven skill-tech website built with PHP and MySQL featuring dynamic content, course packages, testimonials, and an admin dashboard.
 
 <p align="center">
-  <a href="#">🖥️ Live Demo</a> •
+  <a href="https://rainbucks.org/">🖥️ Live Demo</a> •
   <a href="#-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
@@ -172,7 +172,7 @@ If you don't have a license file yet, create one quickly with the standard MIT t
 
 ## 📣 Links
 
-- 🖥️ Demo: https://your-demo-url.com
+- 🖥️ Demo: (https://rainbucks.org/)
 - 📄 Terms & Policies: see `public/` (privacy-policy.php, terms-conditions.php, etc.)
 - 🛠️ Admin Login: `/admin/login.php`
 
